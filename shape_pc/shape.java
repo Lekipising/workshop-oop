@@ -1,3 +1,5 @@
+package shape_pc;
+
 // super class
 public class shape{
     double height;

@@ -1,4 +1,4 @@
-
+package shape_pc;
 
 class Main {
     public static void main(String[] args) {

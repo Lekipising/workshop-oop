@@ -1,3 +1,5 @@
+package shape_pc;
+
 public class rectangle extends shape{
     // inherit constructor
     public rectangle(double h, double w) {

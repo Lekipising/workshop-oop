@@ -1,3 +1,5 @@
+package shape_pc;
+
 public class cuboid extends rectangle{
     double l;
     // inherit constructor
